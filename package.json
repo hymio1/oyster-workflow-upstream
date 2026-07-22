@@ -1,0 +1,27 @@
+{
+  "name": "oyster-workflow-upstream",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hymio1/oyster-workflow-upstream.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hymio1/oyster-workflow-upstream/issues"
+  },
+  "homepage": "https://github.com/hymio1/oyster-workflow-upstream#readme",
+  "dependencies": {
+    "@types/node": "^26.1.1",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "typescript": "^7.0.2",
+    "vite": "^8.1.5"
+  }
+}
